@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-telegram-bot
+aiogram
+aiohttp
+aiosqlite
+segno
+jinja2
+python-multipart
+itsdangerous
